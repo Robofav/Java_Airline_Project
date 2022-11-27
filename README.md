@@ -23,3 +23,10 @@ Flight Details Database:
 • Book_ticket -> Records the ticket booked 
 • Cancel_ticket -> Records the cancelled ticket 
 • Customer -> Adds details of payment
+
+Team Members:
+Adarsh Wadal
+Ritik Data
+Samaksh Gupta
+Srijan Ramnani
+Sahil 
