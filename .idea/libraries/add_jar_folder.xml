@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="add jar folder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Airline Ticke Booking System/add jar folder/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Airline Ticke Booking System/add jar folder/mysql-connector-java-5.1.23-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Airline Ticke Booking System/add jar folder/rs2xml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
